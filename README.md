@@ -12,7 +12,7 @@ I presently work at **Flipkart in their Cloud Team**. My team's work focuses aro
 - 🔭 Apart from my day job I’m currently focussing on Service Mesh Management, Privacy Preserving Machine Learning and Football Analytics.
 - 🌱 I’m currently learning a lot about how to create reliable systems and deploying Machine Learning models
 - 👯 I’m looking to collaborate on any PPML or Football Analytics based ideas
-- I currently contributing to the [Meshery](https://github.com/meshery/meshery) and [meshery-smp-action](https://github.com/layer5io/meshery-smp-action) projects. Hit me up on Layer5 slack if you wish to talk about these projects
+- I am currently contributing to the [Meshery](https://github.com/meshery/meshery) and [meshery-smp-action](https://github.com/layer5io/meshery-smp-action) projects. Hit me up on Layer5 slack if you wish to talk about these projects
 
 <!--
 **hershd23/hershd23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
