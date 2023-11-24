@@ -7,6 +7,7 @@
   <a href="https://twitter.com/DhillonHersh"> <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white> </a>
 </p>
 I am currently pursuing my **Masters in Computer Science from Georgia Institute of Technology**. 
+
 I also work in the DB Lab at Georgia Tech where I work on EvaDB, a database system for AI applications where we can plug and play with ML models and build pipelines in declarative SQL syntax. 
 
 I used to work at **Flipkart in their Cloud Team** and provided Infrastructure as a Service to the rest of the teams at Flipkart.
